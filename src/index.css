@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.p-list{
+  margin-bottom: 0;
+  color: black;
+  text-decoration: none;
+}
+
+.p-imp{
+  color: green;
+  margin-bottom: 0;
+}
+.p-done{
+  text-decoration: line-through;
 }
